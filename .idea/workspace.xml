@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="51a52eb5-98ce-4326-831d-e5c65b77d64b" name="Changes" comment="second change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dec2022_lesson1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dec2022_lesson1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dec2022_lesson1.html" beforeDir="false" afterPath="$PROJECT_DIR$/dec2022lesson1.html.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +47,21 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="dec2022lesson1.html" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="dec2022lesson1.html" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674060677792</updated>
-      <workItem from="1674060679776" duration="10349000" />
+      <workItem from="1674060679776" duration="11117000" />
     </task>
     <task id="LOCAL-00001" summary="first change">
       <created>1674066936171</created>
@@ -78,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674068517735</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="second change">
+      <created>1674071239827</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674071239827</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
