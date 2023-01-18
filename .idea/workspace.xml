@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51a52eb5-98ce-4326-831d-e5c65b77d64b" name="Changes" comment="first change">
+    <list default="true" id="51a52eb5-98ce-4326-831d-e5c65b77d64b" name="Changes" comment="second change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dec2022_lesson1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Dec2022_lesson1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674060677792</updated>
-      <workItem from="1674060679776" duration="7058000" />
+      <workItem from="1674060679776" duration="7487000" />
     </task>
     <task id="LOCAL-00001" summary="first change">
       <created>1674066936171</created>
@@ -64,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674066936171</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second change">
+      <created>1674067891209</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674067891209</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +91,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first change" />
-    <option name="LAST_COMMIT_MESSAGE" value="first change" />
+    <MESSAGE value="second change" />
+    <option name="LAST_COMMIT_MESSAGE" value="second change" />
   </component>
 </project>
