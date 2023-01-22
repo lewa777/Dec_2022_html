@@ -1,0 +1,56 @@
+.h1 {
+    height: 300px;
+    width:100%;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: center;
+    background-color: blue;
+    margin-bottom: 10px;
+
+}
+.main {
+    height: 300px;
+    display: flex;
+    flex-direction: row;
+
+}
+.box{
+    height: 300px;
+    width: border-box;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-block: 10px;
+    text-align: center;
+
+}
+.box1{
+    width: 33%;
+    background-color: yellow;
+    margin-right: 10px;
+}
+.box2{
+    width: 33%;
+    background-color: blueviolet;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.box3{
+    text-align: center;
+    width: 33%;
+    background-color: yellow;
+    margin-left: 10px;
+}
+.contact{
+    height: 500px;
+    background-color: brown;
+    margin-left: 5px;
+    margin-top: 10px;
+    margin-right:5px;
+    text-align: center;
+    justify-content: space-between;
+}
+.h2{
+    text-align:start;
+}
