@@ -1,0 +1,68 @@
+.main{
+
+    background-color:aliceblue;
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+    width: 900px;
+    justify-content: space-around;
+}
+.Resposive_design{
+    display: flex;
+    border: 1px solid black;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+}
+.Use_interface{
+    display: flex;
+    border: 1px solid black;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 5px;
+    padding: 5px;
+
+}
+.Web_dev{
+    display: flex;
+    border: 1px solid black;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 5px;
+    padding: 5px;
+
+}
+.tittle1, .tittle2, .tittle3{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding-left: 15px;
+
+}
+.text1, .text2, .text3{
+    display: flex;
+    justify-content:center;
+
+}
+.button1 .button2 .button3{
+    display: flex;
+    justify-content:center;
+    border: 1px solid black;
+    align-content: flex-end;
+    flex-basis: auto;
+}
+.button1,.button2,.button3 {
+    display: flex;
+    justify-content: space-around;
+    align-content: flex-end;
+    border-style:solid;
+    text-align: center;
+
+    }
+.h2{
+    text-align: center;
+    padding-left: 5px;
+
+}
