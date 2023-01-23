@@ -46,7 +46,7 @@
     justify-content:center;
 
 }
-.button1 .button2 .button3{
+.button1 .button2 .button3>a{
     display: flex;
     justify-content:center;
     border: 1px solid black;
